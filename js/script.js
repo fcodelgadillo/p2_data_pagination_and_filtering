@@ -74,7 +74,7 @@ function addPagination (list) {
 
 header.insertAdjacentHTML("beforeend", `<label for="search" class="student-search">
         <input id="search" placeholder="Search by name...">
-        <button type="button"><img src="icn-search.svg" alt="Search icon"></button>
+        <button type="button"><img src="/img/icn-search.svg" alt="Search icon"></button>
   </label>`);
 
 // Selectors for search-bar and input
